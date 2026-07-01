@@ -39,7 +39,7 @@
 
 ### 🔧 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git />
+<img src="https://skillicons.dev/icons?i=vscode,github,git" />
 
 </div>
 
