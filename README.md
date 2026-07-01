@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:augusto.a.deolindo@gmail.com">
+  <a href="mailto:leonardoaugusto062009@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/AugustoADeolindo">
-    <img src="https://img.shields.io/github/followers/AugustoADeolindo?style=for-the-badge&logo=github&color=181717"/>
+  <a href="https://github.com/LeonardoaugustoC">
+    <img src="https://img.shields.io/github/followers/LeonardoAugustoC?style=for-the-badge&logo=github&color=181717"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 ### 💻 Linguagens & Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,html,css,cs,c,java,react,php,mysql" />
+<img src="https://skillicons.dev/icons?i=js,html,cs,c,java," />
 
 ### 🔧 Ferramentas
 
