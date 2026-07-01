@@ -69,11 +69,11 @@
 
 <div align="center">
 
-<a href="https://br.linkedin.com/in/augusto-deolindo">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/leonardo-augusto-candido-ribeiro-3666953b8">
+  <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Augusto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:augusto.a.deolindo@gmail.com">
+<a href="mailto:leonardoaugusto062009@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
