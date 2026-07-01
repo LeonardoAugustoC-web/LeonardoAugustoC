@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://br.linkedin.com/in/augusto-deolindo-14a996296">
+  <a href="https://br.linkedin.com/in/leonardo-augusto-candido-ribeiro-3666953b8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -48,9 +48,9 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoADeolindo&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAugustoC&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoADeolindo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAugustoC&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=AugustoADeolindo&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=LeonardoAugustoC&theme=tokyonight&hide_border=true"/>
 
 </div>
 
