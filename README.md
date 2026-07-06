@@ -10,7 +10,6 @@
   </a>
   
  <a href="https://www.linkedin.com/in/leonardo-augusto-candido-ribeiro-3666953b8">
-  <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Augusto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
   <a href="https://github.com/LeonardoaugustoC">
