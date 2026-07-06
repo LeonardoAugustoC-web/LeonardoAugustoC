@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://br.linkedin.com/in/leonardo-augusto-candido-ribeiro-3666953b8">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/leonardo-augusto-candido-ribeiro-3666953b8">
+  <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Augusto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
   <a href="https://github.com/LeonardoaugustoC">
     <img src="https://img.shields.io/github/followers/LeonardoAugustoC?style=for-the-badge&logo=github&color=181717"/>
